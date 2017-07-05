@@ -1,0 +1,53 @@
+Hypothesis testing 
+Generally a hypothesis testing is done to see whether a particular conditon or question 
+can be answered with validation. 
+We construct two sub query and validate them. The one accepting or siding with the question is
+called as "NULL Hypothesis" and the one contradicting it is called as "Alternate Hypothesis".
+
+There are 5 different ways we can conduct the hypothesis testing.
+1) ANOVA analysis
+2) T-Test 
+3) Chi- Sqaure test 
+4) F-Test 
+5) Z-Test 
+
+T- test 
+
+Used to see if two data sets have any relation between them and also if the values in the data set
+are the same as their means.
+Used for smaller data sets .
+Generally WE compare two samples.
+
+The terms “significance level” or “level of significance” refer to the likelihood that the random sample you choose (for example, test scores) 
+is not representative of the population. The lower the significance level, the more confident you can be in replicating your results. 
+Significance levels most commonly used in educational research are the .05 and .01 levels. If it helps, think of .05 as another way of saying 95/100 times 
+that you sample from the population, you will get this result. Similarly, .01 suggests that 99/100 times that you sample from the population, you will get the same result.
+These numbers and signs (more on that later) come from Significance Testing, which begins with the Null Hypothesis.
+
+
+We calculate the p-value and then decide on what we should be doing 
+
+p ≥ .05	likely to be a result of chance (same as saying A = B)
+difference is not significant
+null is correct
+“fail to reject the null”
+There is no relationship between  A and B.
+
+p ≤ .05	not likely to be a result of chance (same as saying A ≠ B)
+difference is significant
+null is incorrect
+“reject the null”
+There is a relationship between A and B.
+
+* Always used paired T-test when you have data measured on the same subject or which has variables dependent on each other.
+* QQ plot is always used to see if the data is normally dis or anderson darling test for one-sided.
+* P-value is calculated by 
+* Cochraian or pearson test for two-sided hypothesis testing .
+
+
+ANOVA analysis 
+To conduct a test with three or more variables, an analysis of variance (ANOVA) must be used.
+
+
+
+
